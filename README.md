@@ -2,9 +2,9 @@
 <h3 align="center">A Biomedical Engineer passionate about Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ishan2601&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishan2601" alt="username" /></a> </p>
-
+-->
 <!--<p align="left"> <a href="https://twitter.com/username" target="blank"><img src="https://img.shields.io/twitter/follow/username?logo=twitter&style=for-the-badge" alt="username" /></a> </p>
 
 - 🔭 I’m currently working on [Work Project](https://work-project.com)
