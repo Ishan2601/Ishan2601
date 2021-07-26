@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Vatsaraj</h1>
 <h3 align="center">A Biomedical Engineer passionate about Deep Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ishan2601&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ishan2601&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> </p>-->
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishan2601" alt="username" /></a> </p>
 -->
@@ -9,14 +9,15 @@
 
 - 🔭 I’m currently working on [Work Project](https://work-project.com)
 -->
-
 - 🌱 I’m currently learning **Genomics**
 <!--
 - 👯 I’m looking to collaborate on [Colab Project](https://colab-project.com)
 
 - 🤝 I’m looking for help with [Help Project](https://help-project.com)
 -->
+<!--
 - 👨‍💻 My [Portfolio](https://ishan2601.github.io/ePortfolio/)
+-->
 <!--
 - 📝 I regularly write articles on [Blog Link](Blog Link)
 -->
@@ -32,13 +33,15 @@
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://in.linkedin.com/in/ishan-vatsaraj-75b92b174" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+	<!--<a href="https://in.linkedin.com/in/ishan-vatsaraj-75b92b174" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>-->
+	<a href="https://in.linkedin.com/in/ishan-vatsaraj-75b92b174" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-	<a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
+	<!--<a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>-->
+	<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 <h4 align="left">Frameworks and Libraries:</h4>
@@ -54,7 +57,8 @@
 <h4 align="left">Deployment Tools and Cloud Services:</h4>
 <p align="left">
 	<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-	<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+	<!--<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>-->
+	<a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a>
 	<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>	
 </p>
 <h4 align="left">Web/App Development:</h4>
