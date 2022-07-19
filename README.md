@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Vatsaraj</h1>
-<h3 align="center">A Biomedical Engineer passionate about Deep Learning.</h3>
+<h3 align="center">A Biomedical Engineer passionate about Artificial Intelligence and its applications in Healthcare and medicine.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ishan2601&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> </p>-->
 <!--
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Work Project](https://work-project.com)
 -->
-- 🌱 I’m currently learning **Genomics**
+<!-- - 🌱 I’m currently learning **Genomics** -->
 <!--
 - 👯 I’m looking to collaborate on [Colab Project](https://colab-project.com)
 
@@ -21,7 +21,7 @@
 <!--
 - 📝 I regularly write articles on [Blog Link](Blog Link)
 -->
-- 💬 Ask me about **My Projects**
+<!-- - 💬 Ask me about **My Projects** -->
 <!--
 
 - 📫 Reach out to me on **ishan.vatsaraj@vit.edu.in**
@@ -78,7 +78,7 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan2601&show_icons=true&locale=en&layout=compact" alt="username" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan2601&show_icons=true&locale=en&layout=compact" alt="username" /></p> -->
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishan2601&show_icons=true&locale=en" alt="username" /></p>
 
