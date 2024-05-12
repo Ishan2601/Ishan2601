@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ishan Vatsaraj</h1>
-<h3 align="center">A Biomedical Engineer passionate about Artificial Intelligence and its applications in Healthcare and medicine.</h3>
+<h1 align="center">Hi 👋, I'm Ishan Shailesh Vatsaraj</h1>
+<h3 align="center">A BME PhD student at Johns Hopkins University working on Artificial Intelligence and its applications in Cardiology.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ishan2601&label=Profile%20views&color=0e75b6&style=flat" alt="username" /> </p>-->
 <!--
